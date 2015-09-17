@@ -1,0 +1,7 @@
+{
+	"name": "cuddlebunny-web-starter",
+	"private": true,
+	"dependencies": {
+		"jquery": "~1.11.3"
+	}
+}
